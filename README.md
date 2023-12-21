@@ -1,0 +1,2 @@
+# .github
+ssciwr-courses description
